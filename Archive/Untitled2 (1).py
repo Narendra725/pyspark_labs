@@ -1,0 +1,62 @@
+# # In[1]:
+
+
+# import findspark
+# findspark.init()
+
+
+# # In[2]:
+
+
+# from pyspark.sql import SparkSession
+# spark = SparkSession.builder.master("local[*]").getOrCreate()
+
+
+# # In[3]:
+
+
+# from pyspark.sql.functions import *
+
+
+# # In[4]:
+
+
+# data_df=spark.read.format("json").load("file:/home/labuser/Downloads/688b97cc-73ed-4262-b3be-6ef274e26311_83d04ac6-cb74-4a96-a06a-e0d5442aa126_cars.json")
+# data_df.show()
+
+
+# # In[5]:
+
+
+# data_df.select("make").distinct().count()
+
+
+# # In[6]:
+
+
+# data_df.select("price").filter("price > 60000").count()
+
+
+# # In[9]:
+
+
+# b1=data_df.withColumn("ispremium",when(col("price")>60000,'1').otherwise("0")).select("style","kind","make","ispremium")
+# b1.orderBy(col("style").desc()).show()
+
+
+# # In[12]:
+
+
+# data_df.groupBy("style").agg(avg("price")).show()
+
+
+
+
+
+
+
+
+
+
+
+
