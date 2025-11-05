@@ -1,4 +1,4 @@
- 🧭 Power BI | Microsoft Fabric | PySpark — Internal Learning Repository
+# 🧭 Power BI | Microsoft Fabric | PySpark — Internal Learning Repository
 
 This repository serves as a **central knowledge base** for our team’s learnings and experiments related to **Power BI**, **Microsoft Fabric automations**, and **PySpark**.
 It captures our **hands-on implementations**, **reusable scripts**, and **frameworks** developed while building end-to-end data solutions.
@@ -45,21 +45,20 @@ The repository supports:
 ## 🧱 Repository Structure
 
 ```
-├── powerbi/
-│   ├── dax_measures/         # Optimized and reusable DAX scripts
-│   ├── reports/              # Power BI report templates and configs
-│   ├── themes/               # Custom JSON themes
-│   └── docs/                 # Power BI documentation and guides
-│
-├── fabric_automations/
-│   ├── pipelines/            # Fabric pipeline definitions
-│   ├── scripts/              # API-based automation and validation scripts
-│   └── notebooks/            # Fabric notebooks used for automation
-│
-├── pyspark/
+├── Apache Spark/
 │   ├── notebooks/            # Learning notebooks and transformations
 │   ├── datasets/             # Sample datasets for practice
 │   └── examples/             # Scenario-based PySpark scripts
+|
+├── Archive/                  # GCP Project POC Notebooks and .py files 
+|  
+├── Power BI/
+│   ├── DAX/                  # Optimized and reusable DAX scripts
+│   ├── Reports/              # Power BI report templates and configs
+│   ├── Themes/               # Custom JSON themes and Samples
+│   └── Automations/
+|        ├── Powre Bi Desktop/       # Power Bi Accelerators like Automated Dashboard Builder.
+│        └── Microsoft Fabric/       # Fabric notebooks & datapipelines used for automation.     
 │
 └── README.md
 ```
