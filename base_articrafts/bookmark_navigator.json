@@ -1,0 +1,181 @@
+{
+    "name": "CustomTheme",
+    "$schema": "file:///C:/Users/dasari.babu/Downloads/reportThemeSchema.json",
+    "dataColors": [
+        "#165BAA",
+        "#14C9C9",
+        "#3B82F6",
+        "#14B8A6",
+        "#FACC15",
+        "#F59E0B",
+        "#77C4A8",
+        "#DEA6CF",
+        "#3599B8",
+        "#DFBFBF",
+        "#4AC5BB",
+        "#5F6B6D",
+        "#FB8281",
+        "#F4D25A",
+        "#7F898A",
+        "#A4DDEE",
+        "#FDAB89",
+        "#B687AC",
+        "#28738A",
+        "#A78F8F",
+        "#168980",
+        "#293537",
+        "#BB4A4A",
+        "#B59525",
+        "#475052",
+        "#6A9FB0",
+        "#BD7150",
+        "#7B4F71",
+        "#1B4D5C",
+        "#706060",
+        "#0F5C55",
+        "#1C2325"
+    ],
+    "tableAccent": "#3257A8",
+    "maximum": "#3257A8",
+    "center": "#DD6B7F",
+    "minimum": "#D1DBF1",
+    "textClasses": {
+        "label": {
+            "color": "#000000",
+            "fontSize": 9
+        },
+        "callout": {
+            "color": "#22628C",
+            "fontFace": "'Segoe UI Bold', wf_segoe-ui_bold, helvetica, arial, sans-serif",
+            "fontSize": 28
+        },
+        "title": {
+            "color": "#000000",
+            "fontFace": "'Segoe UI Bold', wf_segoe-ui_bold, helvetica, arial, sans-serif"
+        },
+        "header": {
+            "color": "#000000",
+            "fontFace": "'Segoe UI Bold', wf_segoe-ui_bold, helvetica, arial, sans-serif"
+        }
+    },
+    "foregroundNeutralSecondary": "#000000",
+    "backgroundLight": "#F3F2F1",
+    "foregroundNeutralTertiary": "#000000",
+    "background": "#FFFFFF",
+    "backgroundNeutral": "#FFFFFF",
+    "bad": "#E01F29",
+    "good": "#13B753",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "visualHeader": [
+                    {
+                        "background": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "foreground": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        }
+                    }
+                ],
+                "visualTooltip": [
+                    {
+                        "themedTitleFontColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "themedValueFontColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "actionFontColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        }
+                    }
+                ],
+                "visualHeaderTooltip": [
+                    {
+                        "themedTitleFontColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        }
+                    }
+                ],
+                "outspacePane": [
+                    {
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "checkboxAndApplyColor": {
+                            "solid": {
+                                "color": "#FDFDFD"
+                            }
+                        }
+                    }
+                ],
+                "filterCard": [
+                    {
+                        "$id": "Applied",
+                        "backgroundColor": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "transparency": 0
+                    },
+                    {
+                        "$id": "Available",
+                        "backgroundColor": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ]
+            }
+        },
+        "bookmarkNavigator": {
+            "*":{
+                "general": [
+                    {
+                    "responsive": true,
+                    "keepLayerOrder": true
+                    }
+                ],
+                "fill": [
+                    {
+                        "show": true
+                    },
+                    {
+                        "$id": "default",
+                        "transparency": 0,
+                        "c"
+                    }
+
+                ]
+            }
+        }
+    }
+}
