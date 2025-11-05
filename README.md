@@ -112,7 +112,7 @@ Do not distribute or publish externally without prior approval.
 Power BI | Fabric Automation | PySpark  
 📧 narendradasari725@gmail.com   
 ☎️ +91 8712383089     
-🔗 LinkedIn | (https://www.linkedin.com/in/narendra-dasari-811956237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
+🔗 [LinkedIn](https://www.linkedin.com/in/narendra-dasari-811956237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
 🔗 [GitHub](https://github.com/Narendra725)
 
 
