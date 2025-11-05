@@ -1,7 +1,7 @@
 # 🧭 Power BI | Microsoft Fabric | PySpark — Internal Learning Repository
 
-This repository serves as a **central knowledge base** for our team’s learnings and experiments related to **Power BI**, **Microsoft Fabric automations**, and **PySpark**.
-It captures our **hands-on implementations**, **reusable scripts**, and **frameworks** developed while building end-to-end data solutions.
+This repository serves as a **central knowledge base** for my learnings and experiments related to **Power BI**, **Microsoft Fabric automations**, and **PySpark**.
+It captures my **hands-on implementations**, **reusable scripts**, and **frameworks** developed while building end-to-end data solutions.
 
 ---
 
@@ -77,8 +77,6 @@ The repository supports:
 
 ## 📈 Ongoing Initiatives
 
-* Extending automation to include report publishing and parameterized refresh.
-* Building a Fabric Notebook framework for Spark-based validation and logging.
 * Developing Power BI–Fabric–PySpark integrated learning workflows.
 * Continuous performance benchmarking for DAX and Spark workloads.
 
@@ -107,5 +105,13 @@ The repository supports:
 ## 📋 License
 
 This repository is restricted to internal educational and reference purposes.
-Do not distribute or publish externally without prior approval.
+Do not distribute or publish externally without prior approval. 
+
+### For Maintainner Contact :
+🧑‍💻 **Narendra Babu Dasari**  
+Power BI | Fabric Automation | PySpark  
+📧 narendradasari725@gmail.com  
+☎️ +91 8712383089
+🔗 [GitHub](https://github.com/Narendra725)
+
 
