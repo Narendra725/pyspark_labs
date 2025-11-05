@@ -1,4 +1,4 @@
-# 🧭 Power BI | Microsoft Fabric | PySpark — Internal Learning Repository
+ 🧭 Power BI | Microsoft Fabric | PySpark — Internal Learning Repository
 
 This repository serves as a **central knowledge base** for our team’s learnings and experiments related to **Power BI**, **Microsoft Fabric automations**, and **PySpark**.
 It captures our **hands-on implementations**, **reusable scripts**, and **frameworks** developed while building end-to-end data solutions.
