@@ -107,7 +107,7 @@ The repository supports:
 This repository is restricted to internal educational and reference purposes.
 Do not distribute or publish externally without prior approval. 
 
-### For Maintainner Contact :
+### For Suggestions or queries Contact :
 🧑‍💻 **Narendra Babu Dasari**  
 Power BI | Fabric Automation | PySpark  
 📧 narendradasari725@gmail.com   
