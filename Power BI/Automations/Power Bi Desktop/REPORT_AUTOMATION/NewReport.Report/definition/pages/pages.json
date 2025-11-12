@@ -1,0 +1,19 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/pagesMetadata/1.0.0/schema.json",
+  "pageOrder": [
+    "FillPage",
+    "POs",
+    "OpenPOs",
+    "InventoryBalance",
+    "ShelfAvailability",
+    "Transactions",
+    "TransactionsData",
+    "Sales",
+    "Data",
+    "IMF",
+    "Return",
+    "Panel1_SalesShare",
+    "Panel1"
+  ],
+  "activePageName": "FillPage"
+}
